@@ -6,7 +6,7 @@ Este projeto foi criado a fim de aprendizado na live code da [Digital Innovation
 onde desenvolvemos a interface do Mercado Livre com React Native e Expo, utilizando o [Firebase](https://firebase.google.com/) no backend.
 
 
-**🔧 O que utilizamos**
+**🔧 Tecnologias**
 ---
 - React Native
 - Expo
