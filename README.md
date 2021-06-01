@@ -24,4 +24,5 @@ Este projeto foi criado a fim de aprendizado onde foi desenvolvido a interface d
 	npm install 
 ```
 
-
+Feito com 💜
+  por <a href="https://www.linkedin.com/in/evelinmarquess/">Évelin Marques</a>
